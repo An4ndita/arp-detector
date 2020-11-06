@@ -1,4 +1,4 @@
-# arp-detector
+# arp-spoof-detector
 
 Program for detecting ARP poisoning attack
 
