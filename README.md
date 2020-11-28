@@ -15,10 +15,10 @@ $ sudo apt-get install python3-scapy
 
 # USAGE :
 
-$ sudo git clone https://github.com/An4ndita/arp-detector.git
+$ git clone https://github.com/An4ndita/arp-detector.git
 
 $ cd arp-detector
 
-$ sudo python3 arpdetector.py
+$ python3 arpdetector.py
 
 Enter the interface >
